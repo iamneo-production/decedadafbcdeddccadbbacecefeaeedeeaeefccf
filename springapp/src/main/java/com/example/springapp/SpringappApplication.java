@@ -13,7 +13,7 @@ public class SpringappApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringappApplication.class, args);
 	}
-	public String Welcome
+	public String 
 	{
 		@RequestMapping("/welcome")
 		@ResponseBody
